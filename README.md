@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=700&lines=BOT+PROEISBM+v7.1+ELITE;Ca%C3%A7ador+de+Vagas+24%2F7;Mar%C3%A1+%2B+Niter%C3%B3i+%E2%80%94+Dois+Robos%2C+Uma+Miss%C3%A3o;Selenium+%2B+Anti-Captcha+%2B+Telegram" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=900&lines=BOT+PROEISBM+v7.1+ELITE;Ca%C3%A7ador+de+Vagas+24%2F7;Maric%C3%A1+%2B+Niter%C3%B3i+%E2%80%94+Dois+Robos%2C+Uma+Miss%C3%A3o;Selenium+%2B+Anti-Captcha+%2B+Telegram" alt="Typing SVG" />
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
