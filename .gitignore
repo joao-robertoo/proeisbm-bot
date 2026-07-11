@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+chrome-profile-marica/
+chrome-profile-niteroi/
+chromedriver-marica/
+chromedriver-niteroi/
+chromedriver.exe
+logs/
+captchas/
